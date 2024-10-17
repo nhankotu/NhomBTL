@@ -1,0 +1,23 @@
+ProductID;ProductName;SupplierID;CategoryID
+1;Chais ;1 ;1 
+2 ;Chang ;1 ;1 
+3 ;Aniseed Syrup ;1 ;2 
+4 ;Chef Anton's Cajun Seasoning ;2 ;2 
+5 ;Chef Anton's Gumbo Mix ;2 ;2 
+6 ;Grandma's Boysenberry Spread ;3 ;2 
+7 ;Uncle Bob's Organic Dried Pears ;3 ;7 
+8 ;Northwoods Cranberry Sauce ;3 ;2 
+9 ;Mishi Kobe Niku ;4 ;6 
+10 ;Ikura ;4 ;8 
+11 ;Queso Cabrales ;5 ;4 
+12 ;Queso Manchego La Pastora ;5 ;4 
+13 ;Konbu ;6 ;8 
+14 ;Tofu ;6 ;7 
+15 ;Genen Shouyu ;6 ;2 
+16 ;Pavlova ;7 ;3 
+17 ;Alice Mutton ;7 ;6 
+18 ;Carnarvon Tigers ;7 ;8 
+19 ;Teatime Chocolate Biscuits ;8 ;3 
+20 ;Sir Rodney's Marmalade ;8 ;3 
+21 ;Sir Rodney's Scones ;8 ;3 
+22 ;Gustaf's Knäckebröd ;9 ;5 
